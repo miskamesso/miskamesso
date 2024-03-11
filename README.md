@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Hi, I'm Miska! </h1>
+
+<h2>👨‍💻 Software Development Student:</h2>
+
 
 <!--
 **miskamesso/miskamesso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
